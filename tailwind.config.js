@@ -14,6 +14,7 @@ export default {
         fontFamily: {
             'Poppins' : 'Poppins',
             'Montserrat' : 'Montserrat',
+            'Mont' : 'Montserrat Alternates'
         }
     },
   },
